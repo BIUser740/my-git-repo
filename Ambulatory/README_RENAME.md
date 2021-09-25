@@ -1,1 +1,0 @@
-# Consist of all ambulatory information
